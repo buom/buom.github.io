@@ -1,4 +1,4 @@
 buom.github.io
 ==============
 
-Content for buom.me
+Content for buom.io
